@@ -19,7 +19,7 @@ export default function About () {
 
         <div className='sm:mt-16 flex flex-col'>
           <h2>Who we are</h2>
-          <p>Made in Austin, Texas</p>
+          <p>Made in Bali, Indonesia</p>
           <hr className='my-8 border border-black' />
           <p className='text-2xl leading-snug md:text-7xl'>We are a team of skilled and passionate professionals, dedicated to helping our clients achieve their business goals through effective online marketing strategies.</p>
           <div className='lg:w-[32rem] lg:mx-32 2xl:mx-64 mt-4 lg:mt-16 self-end'>
