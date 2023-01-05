@@ -25,7 +25,7 @@ const navItems = [
   return (    
     <div className="flex justify-between items-center px-6 pt-8 sm:px-12 z-30">
       <Link href={"/"}>
-        <h1 className="text-4xl font-extrabold">KOI</h1>
+        <h1 className="text-4xl font-extrabold">Advertiti</h1>
       </Link>
       
       <div className='flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start md:space-x-10'>
